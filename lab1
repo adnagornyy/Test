@@ -1,0 +1,24 @@
+// CMakeProject1.cpp: определяет точку входа для приложения.
+//
+
+#include "CMakeProject1.h"
+#include <limits>  
+using namespace std;
+
+int main()
+{
+	short int hight;
+	short int firstBase;
+	short int secondBase;
+	cin >> hight;
+	cin >> firstBase;
+	cin >> secondBase;
+	
+	cout << hight*(firstBase+ secondBase)/2 << "\n";
+	std::cout << "minimum value: " << std::numeric_limits<short>::min() << "\n"
+		<< "maximum value: " << std::numeric_limits<short>::max() << "\n";
+	return 0;
+
+
+	
+}
