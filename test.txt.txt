@@ -1,6 +1,10 @@
+https://docs.google.com/spreadsheets/d/1xy2qe4D_NeP5d8hTgp4NEg0olJRZqQj0cda8eHRFSSw/edit?gid=2144001054#gid=2144001054
+
+
 dop links
 
 https://metanit.com/cpp/tutorial/2.3.php?ysclid=mfs5a2jnr3138316827
 https://www.geeksforgeeks.org/cpp/input-in-cpp/?ysclid=mfs5yupqa2877465577
 http://cppstudio.com/post/413/?ysclid=mfs4wq43ln235337011
 https://education.yandex.ru/handbook/cpp/article/data-types
+
