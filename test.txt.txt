@@ -8,3 +8,31 @@ https://www.geeksforgeeks.org/cpp/input-in-cpp/?ysclid=mfs5yupqa2877465577
 http://cppstudio.com/post/413/?ysclid=mfs4wq43ln235337011
 https://education.yandex.ru/handbook/cpp/article/data-types
 
+
+// lab4.cpp: определяет точку входа для приложения.
+//
+
+#include "lab4.h"
+
+using namespace std;
+
+int main()
+{
+	int arr[5]; 
+	for (int i = 0; i < 5; i++) {
+		cout << "введите "<< i<< "элемент масива:";
+		int num;
+		cin>> num;
+		arr[i] = num;
+	}
+	for (int i = 0; i < 5; i++) {
+		int e = arr[i];
+		cout << e ;
+		for (int k = 0; k < 5; k++) {
+
+		}
+	}
+	cout << arr;
+}
+
+
